@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/assets">
+    	<file>fallingblocks.png</file>
+        <file>fallingblocks.svg</file>
+    </qresource>
+</RCC>

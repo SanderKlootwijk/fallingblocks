@@ -1,0 +1,15 @@
+{
+    "name": "fallingblocks.sanderklootwijk",
+    "description": "A game with falling blocks",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Falling Blocks",
+    "hooks": {
+        "fallingblocks": {
+            "apparmor": "fallingblocks.apparmor",
+            "desktop":  "fallingblocks.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Sander Klootwijk <sander.klootwijk@tutanota.com>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}

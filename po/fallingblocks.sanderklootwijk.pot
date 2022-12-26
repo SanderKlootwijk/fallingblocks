@@ -1,0 +1,122 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the fallingblocks.sanderklootwijk package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: fallingblocks.sanderklootwijk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-26 20:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/gui/AboutPage.qml:10 ../qml/gui/GamePage.qml:45
+msgid "About"
+msgstr ""
+
+#: ../qml/gui/AboutPage.qml:68
+msgid "Version"
+msgstr ""
+
+#: ../qml/gui/AboutPage.qml:85
+msgid "Source code"
+msgstr ""
+
+#: ../qml/gui/AboutPage.qml:86
+msgid "Report issues"
+msgstr ""
+
+#: ../qml/gui/GameOverDialog.qml:10
+msgid "Game Over"
+msgstr ""
+
+#: ../qml/gui/GameOverDialog.qml:10
+msgid "New Highscore"
+msgstr ""
+
+#: ../qml/gui/GameOverDialog.qml:12
+msgid "Your score is:"
+msgstr ""
+
+#: ../qml/gui/GameOverDialog.qml:18
+msgid "New Game"
+msgstr ""
+
+#: ../qml/gui/GameOverDialog.qml:30
+msgid "Close"
+msgstr ""
+
+#: ../qml/gui/GamePage.qml:38 ../qml/gui/SettingsPage.qml:11
+msgid "Settings"
+msgstr ""
+
+#: ../qml/gui/LeftBlocksColumn.qml:34
+msgid "Highscore:"
+msgstr ""
+
+#: ../qml/gui/LeftBlocksColumn.qml:70
+msgid "Next block:"
+msgstr ""
+
+#: ../qml/gui/LeftBlocksColumn.qml:116
+msgid "Stored:"
+msgstr ""
+
+#: ../qml/gui/LeftButtonsColumn.qml:34 ../qml/gui/LeftButtonsColumn.qml:49
+msgid "Start"
+msgstr ""
+
+#: ../qml/gui/LeftButtonsColumn.qml:49
+msgid "Stop"
+msgstr ""
+
+#: ../qml/gui/LeftButtonsColumn.qml:60 ../qml/gui/LeftButtonsColumn.qml:71
+msgid "Pause"
+msgstr ""
+
+#: ../qml/gui/LeftButtonsColumn.qml:71
+msgid "Resume"
+msgstr ""
+
+#: ../qml/gui/PauseOverlay.qml:13
+msgid "Paused"
+msgstr ""
+
+#: ../qml/gui/ScoreBlock.qml:16
+msgid "Score:"
+msgstr ""
+
+#: ../qml/gui/ScoreBlock.qml:32
+msgid "Lines:"
+msgstr ""
+
+#: ../qml/gui/ScoreBlock.qml:45
+msgid "Level:"
+msgstr ""
+
+#: ../qml/gui/SettingsPage.qml:46
+msgid "Dark Mode"
+msgstr ""
+
+#: ../qml/gui/SettingsPage.qml:80
+msgid "Music"
+msgstr ""
+
+#: ../qml/gui/SettingsPage.qml:116
+msgid "Sound Effects"
+msgstr ""
+
+#: ../qml/gui/SettingsPage.qml:151
+msgid "Drop sensitivity"
+msgstr ""
+
+#: fallingblocks.desktop.in.h:1
+msgid "Falling Blocks"
+msgstr ""

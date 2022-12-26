@@ -1,0 +1,9 @@
+[Desktop Entry]
+_Name=Falling Blocks
+Exec=fallingblocks %U
+Icon=assets/fallingblocks.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+X-Ubuntu-Splash-Color=#111111
+X-Ubuntu-Supported-Orientations=portrait

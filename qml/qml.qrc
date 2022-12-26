@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>QtValues.qml</file>
+        <file>fx/alert.wav</file>
+        <file>fx/blip.wav</file>
+        <file>fx/clear1.wav</file>
+        <file>fx/clear.wav</file>
+        <file>fx/fastdrop.wav</file>
+        <file>fx/laser.wav</file>
+        <file>fx/powerup.wav</file>
+        <file>fx/shutdown.wav</file>
+        <file>fx/turn.wav</file>
+        <file>gui/AboutPage.qml</file>
+        <file>gui/GameOverDialog.qml</file>
+        <file>gui/gamePageHelper.js</file>
+        <file>gui/GamePage.qml</file>
+        <file>gui/GridOverlay.qml</file>
+        <file>gui/LeftBlocksColumn.qml</file>
+        <file>gui/LeftButtonsColumn.qml</file>
+        <file>gui/MouseObj.qml</file>
+        <file>gui/PauseOverlay.qml</file>
+        <file>gui/ScoreBlock.qml</file>
+        <file>gui/SettingsPage.qml</file>
+        <file>gui/blocks/BoardRow.qml</file>
+        <file>gui/blocks/NormalColors.qml</file>
+        <file>gui/blocks/Normal.qml</file>
+        <file>gui/blocks/Shape.qml</file>
+        <file>gui/img/fallingblocks.png</file>
+        <file>gui/img/rasterD.svg</file>
+        <file>gui/img/rasterLD.svg</file>
+        <file>gui/img/rasterL.svg</file>
+        <file>gui/img/rasterLU.svg</file>
+        <file>gui/img/rasterM.svg</file>
+        <file>gui/img/rasterRD.svg</file>
+        <file>gui/img/rasterR.svg</file>
+        <file>gui/img/rasterRU.svg</file>
+        <file>gui/img/raster.svg</file>
+        <file>gui/img/rasterU.svg</file>
+        <file>logic/game.js</file>
+        <file>music/01.ogg</file>
+        <file>music/02.ogg</file>
+        <file>music/03.ogg</file>
+    </qresource>
+</RCC>
