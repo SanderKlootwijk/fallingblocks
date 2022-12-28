@@ -32,7 +32,7 @@ MainView {
     objectName: 'mainView'
     applicationName: 'fallingblocks.sanderklootwijk'
     automaticOrientation: true
-    property string version: "1.0.0"
+    property string version: "1.0.1"
 
     QtValues {
         id: values

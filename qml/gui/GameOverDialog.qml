@@ -20,6 +20,7 @@ Dialog {
         onClicked: {
             Game.startNewGame()
             PopupUtils.close(gameOverDialog)
+            values.startButtonEnabled = true
         }
     }
 
@@ -29,6 +30,9 @@ Dialog {
         color: theme.palette.normal.base
         text: i18n.tr("Close")
 
-        onClicked: PopupUtils.close(gameOverDialog)
+        onClicked: {
+            PopupUtils.close(gameOverDialog)
+            values.startButtonEnabled = true
+        }
     }
 }

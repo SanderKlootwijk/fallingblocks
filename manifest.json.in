@@ -9,7 +9,7 @@
             "desktop":  "fallingblocks.desktop"
         }
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
     "maintainer": "Sander Klootwijk <sander.klootwijk@tutanota.com>",
     "framework" : "@CLICK_FRAMEWORK@"
 }

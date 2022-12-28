@@ -9,6 +9,7 @@ QtObject {
     property bool waiting: false
     property bool started: false
     property bool gameOver: false
+    property bool startButtonEnabled: true
     property bool debug: false
     property int score: 0
     property int lines: 0

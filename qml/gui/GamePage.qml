@@ -206,6 +206,7 @@ Page {
             StateChangeScript {
                 script: {
                     if (values.gameOver) {
+                        values.startButtonEnabled = false
                         delay.start()
                     }
                 }

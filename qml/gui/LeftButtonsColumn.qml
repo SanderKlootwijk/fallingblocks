@@ -33,7 +33,8 @@ Item {
             
             text: i18n.tr("Start")
             color: values.started ? theme.palette.normal.negative : theme.palette.normal.positive
-            
+            enabled: values.startButtonEnabled
+
             onClicked: {
                 if (values.started) {
                     Game.gameOver()
