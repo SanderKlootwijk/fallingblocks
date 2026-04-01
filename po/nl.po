@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fallingblocks.sanderklootwijk\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-26 20:46+0000\n"
+"POT-Creation-Date: 2022-12-28 15:38+0000\n"
 "PO-Revision-Date: 2022-12-26 21:51+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -50,7 +50,7 @@ msgstr "Je score is:"
 msgid "New Game"
 msgstr "Nieuw spel"
 
-#: ../qml/gui/GameOverDialog.qml:30
+#: ../qml/gui/GameOverDialog.qml:31
 msgid "Close"
 msgstr "Sluiten"
 
@@ -70,19 +70,19 @@ msgstr "Volgende blok:"
 msgid "Stored:"
 msgstr "Bewaard:"
 
-#: ../qml/gui/LeftButtonsColumn.qml:34 ../qml/gui/LeftButtonsColumn.qml:49
+#: ../qml/gui/LeftButtonsColumn.qml:34 ../qml/gui/LeftButtonsColumn.qml:50
 msgid "Start"
 msgstr "Start"
 
-#: ../qml/gui/LeftButtonsColumn.qml:49
+#: ../qml/gui/LeftButtonsColumn.qml:50
 msgid "Stop"
 msgstr "Stop"
 
-#: ../qml/gui/LeftButtonsColumn.qml:60 ../qml/gui/LeftButtonsColumn.qml:71
+#: ../qml/gui/LeftButtonsColumn.qml:61 ../qml/gui/LeftButtonsColumn.qml:72
 msgid "Pause"
 msgstr "Pauzeer"
 
-#: ../qml/gui/LeftButtonsColumn.qml:71
+#: ../qml/gui/LeftButtonsColumn.qml:72
 msgid "Resume"
 msgstr "Hervat"
 
