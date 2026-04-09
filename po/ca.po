@@ -8,115 +8,117 @@ msgstr ""
 "Project-Id-Version: fallingblocks.sanderklootwijk\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-28 15:38+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-04-09 19:59+0000\n"
+"Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
+"Language-Team: Catalan <https://hosted.weblate.org/projects/ubports/falling-"
+"blocks/ca/>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.17-dev\n"
 
 #: ../qml/gui/AboutPage.qml:10 ../qml/gui/GamePage.qml:45
 msgid "About"
-msgstr ""
+msgstr "Quant a"
 
 #: ../qml/gui/AboutPage.qml:68
 msgid "Version"
-msgstr ""
+msgstr "Versió"
 
 #: ../qml/gui/AboutPage.qml:85
 msgid "Source code"
-msgstr ""
+msgstr "Codi font"
 
 #: ../qml/gui/AboutPage.qml:86
 msgid "Report issues"
-msgstr ""
+msgstr "Informes d'error"
 
 #: ../qml/gui/GameOverDialog.qml:10
 msgid "Game Over"
-msgstr ""
+msgstr "Joc acabat"
 
 #: ../qml/gui/GameOverDialog.qml:10
 msgid "New Highscore"
-msgstr ""
+msgstr "Nova puntuació més alta"
 
 #: ../qml/gui/GameOverDialog.qml:12
 msgid "Your score is:"
-msgstr ""
+msgstr "La vostra puntuació és:"
 
 #: ../qml/gui/GameOverDialog.qml:18
 msgid "New Game"
-msgstr ""
+msgstr "Joc nou"
 
 #: ../qml/gui/GameOverDialog.qml:31
 msgid "Close"
-msgstr ""
+msgstr "Tanca"
 
 #: ../qml/gui/GamePage.qml:38 ../qml/gui/SettingsPage.qml:11
 msgid "Settings"
-msgstr ""
+msgstr "Configuració"
 
 #: ../qml/gui/LeftBlocksColumn.qml:34
 msgid "Highscore:"
-msgstr ""
+msgstr "Puntuació més alta:"
 
 #: ../qml/gui/LeftBlocksColumn.qml:70
 msgid "Next block:"
-msgstr ""
+msgstr "Bloc nou:"
 
 #: ../qml/gui/LeftBlocksColumn.qml:116
 msgid "Stored:"
-msgstr ""
+msgstr "Emmagatzemat:"
 
 #: ../qml/gui/LeftButtonsColumn.qml:34 ../qml/gui/LeftButtonsColumn.qml:50
 msgid "Start"
-msgstr ""
+msgstr "Inicia"
 
 #: ../qml/gui/LeftButtonsColumn.qml:50
 msgid "Stop"
-msgstr ""
+msgstr "Atura"
 
 #: ../qml/gui/LeftButtonsColumn.qml:61 ../qml/gui/LeftButtonsColumn.qml:72
 msgid "Pause"
-msgstr ""
+msgstr "Pausa"
 
 #: ../qml/gui/LeftButtonsColumn.qml:72
 msgid "Resume"
-msgstr ""
+msgstr "Reprèn"
 
 #: ../qml/gui/PauseOverlay.qml:13
 msgid "Paused"
-msgstr ""
+msgstr "Pausat"
 
 #: ../qml/gui/ScoreBlock.qml:16
 msgid "Score:"
-msgstr ""
+msgstr "Puntuació:"
 
 #: ../qml/gui/ScoreBlock.qml:32
 msgid "Lines:"
-msgstr ""
+msgstr "Línies:"
 
 #: ../qml/gui/ScoreBlock.qml:45
 msgid "Level:"
-msgstr ""
+msgstr "Nivell:"
 
 #: ../qml/gui/SettingsPage.qml:46
 msgid "Dark Mode"
-msgstr ""
+msgstr "Mode fosc"
 
 #: ../qml/gui/SettingsPage.qml:80
 msgid "Music"
-msgstr ""
+msgstr "Música"
 
 #: ../qml/gui/SettingsPage.qml:116
 msgid "Sound Effects"
-msgstr ""
+msgstr "Efectes de so"
 
 #: ../qml/gui/SettingsPage.qml:151
 msgid "Drop sensitivity"
-msgstr ""
+msgstr "Baixa la sensitivitat"
 
 #: fallingblocks.desktop.in.h:1
 msgid "Falling Blocks"
-msgstr ""
+msgstr "Blocs que cauen"
