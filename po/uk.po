@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: fallingblocks.sanderklootwijk\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-28 15:38+0000\n"
-"PO-Revision-Date: 2026-04-10 21:09+0000\n"
+"PO-Revision-Date: 2026-04-17 04:38+0000\n"
 "Last-Translator: Serhii Horichenko <serhii@horichenko.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/ubports/"
 "falling-blocks/uk/>\n"
@@ -18,43 +18,43 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.17-dev\n"
+"X-Generator: Weblate 5.17.1-dev\n"
 
 #: ../qml/gui/AboutPage.qml:10 ../qml/gui/GamePage.qml:45
 msgid "About"
-msgstr ""
+msgstr "Інфо"
 
 #: ../qml/gui/AboutPage.qml:68
 msgid "Version"
-msgstr ""
+msgstr "Версія"
 
 #: ../qml/gui/AboutPage.qml:85
 msgid "Source code"
-msgstr ""
+msgstr "Початковий код"
 
 #: ../qml/gui/AboutPage.qml:86
 msgid "Report issues"
-msgstr ""
+msgstr "Повідомити про проблему"
 
 #: ../qml/gui/GameOverDialog.qml:10
 msgid "Game Over"
-msgstr ""
+msgstr "Гра завершена"
 
 #: ../qml/gui/GameOverDialog.qml:10
 msgid "New Highscore"
-msgstr ""
+msgstr "Новий рекорд"
 
 #: ../qml/gui/GameOverDialog.qml:12
 msgid "Your score is:"
-msgstr ""
+msgstr "Ваш рахунок:"
 
 #: ../qml/gui/GameOverDialog.qml:18
 msgid "New Game"
-msgstr ""
+msgstr "Нова гра"
 
 #: ../qml/gui/GameOverDialog.qml:31
 msgid "Close"
-msgstr ""
+msgstr "Закрити"
 
 #: ../qml/gui/GamePage.qml:38 ../qml/gui/SettingsPage.qml:11
 msgid "Settings"
@@ -62,64 +62,64 @@ msgstr "Налаштування"
 
 #: ../qml/gui/LeftBlocksColumn.qml:34
 msgid "Highscore:"
-msgstr ""
+msgstr "Рекорд:"
 
 #: ../qml/gui/LeftBlocksColumn.qml:70
 msgid "Next block:"
-msgstr ""
+msgstr "Наступний:"
 
 #: ../qml/gui/LeftBlocksColumn.qml:116
 msgid "Stored:"
-msgstr ""
+msgstr "Збережене:"
 
 #: ../qml/gui/LeftButtonsColumn.qml:34 ../qml/gui/LeftButtonsColumn.qml:50
 msgid "Start"
-msgstr ""
+msgstr "Старт"
 
 #: ../qml/gui/LeftButtonsColumn.qml:50
 msgid "Stop"
-msgstr ""
+msgstr "Стоп"
 
 #: ../qml/gui/LeftButtonsColumn.qml:61 ../qml/gui/LeftButtonsColumn.qml:72
 msgid "Pause"
-msgstr ""
+msgstr "Пауза"
 
 #: ../qml/gui/LeftButtonsColumn.qml:72
 msgid "Resume"
-msgstr ""
+msgstr "Підсумок"
 
 #: ../qml/gui/PauseOverlay.qml:13
 msgid "Paused"
-msgstr ""
+msgstr "На паузі"
 
 #: ../qml/gui/ScoreBlock.qml:16
 msgid "Score:"
-msgstr ""
+msgstr "Рахунок:"
 
 #: ../qml/gui/ScoreBlock.qml:32
 msgid "Lines:"
-msgstr ""
+msgstr "Рядки:"
 
 #: ../qml/gui/ScoreBlock.qml:45
 msgid "Level:"
-msgstr ""
+msgstr "Рівень:"
 
 #: ../qml/gui/SettingsPage.qml:46
 msgid "Dark Mode"
-msgstr ""
+msgstr "Темний режим"
 
 #: ../qml/gui/SettingsPage.qml:80
 msgid "Music"
-msgstr ""
+msgstr "Музика"
 
 #: ../qml/gui/SettingsPage.qml:116
 msgid "Sound Effects"
-msgstr ""
+msgstr "Звукові ефекти"
 
 #: ../qml/gui/SettingsPage.qml:151
 msgid "Drop sensitivity"
-msgstr ""
+msgstr "Скинути чутливість"
 
 #: fallingblocks.desktop.in.h:1
 msgid "Falling Blocks"
-msgstr ""
+msgstr "Falling Blocks"
