@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: fallingblocks.sanderklootwijk\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-28 15:38+0000\n"
-"PO-Revision-Date: 2026-07-21 19:19+0000\n"
-"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
+"PO-Revision-Date: 2026-07-25 19:56+0000\n"
+"Last-Translator: Daniel Frost <one@frostinfo.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/ubports/falling-"
 "blocks/de/>\n"
 "Language: de\n"
@@ -37,15 +37,15 @@ msgstr "Probleme melden"
 
 #: ../qml/gui/GameOverDialog.qml:10
 msgid "Game Over"
-msgstr ""
+msgstr "Spielende"
 
 #: ../qml/gui/GameOverDialog.qml:10
 msgid "New Highscore"
-msgstr ""
+msgstr "Neue Höchstpunktzahl"
 
 #: ../qml/gui/GameOverDialog.qml:12
 msgid "Your score is:"
-msgstr ""
+msgstr "Dein Punktestand ist:"
 
 #: ../qml/gui/GameOverDialog.qml:18
 msgid "New Game"
@@ -61,7 +61,7 @@ msgstr "Einstellungen"
 
 #: ../qml/gui/LeftBlocksColumn.qml:34
 msgid "Highscore:"
-msgstr ""
+msgstr "Höchste Punktzahl:"
 
 #: ../qml/gui/LeftBlocksColumn.qml:70
 msgid "Next block:"
@@ -69,7 +69,7 @@ msgstr "Nächster Block:"
 
 #: ../qml/gui/LeftBlocksColumn.qml:116
 msgid "Stored:"
-msgstr ""
+msgstr "Gespeichert:"
 
 #: ../qml/gui/LeftButtonsColumn.qml:34 ../qml/gui/LeftButtonsColumn.qml:50
 msgid "Start"
@@ -93,11 +93,11 @@ msgstr "Pausiert"
 
 #: ../qml/gui/ScoreBlock.qml:16
 msgid "Score:"
-msgstr ""
+msgstr "Punkte:"
 
 #: ../qml/gui/ScoreBlock.qml:32
 msgid "Lines:"
-msgstr ""
+msgstr "Zeilen:"
 
 #: ../qml/gui/ScoreBlock.qml:45
 msgid "Level:"
@@ -105,7 +105,7 @@ msgstr "Level:"
 
 #: ../qml/gui/SettingsPage.qml:46
 msgid "Dark Mode"
-msgstr ""
+msgstr "Dunkler Modus"
 
 #: ../qml/gui/SettingsPage.qml:80
 msgid "Music"
@@ -113,12 +113,12 @@ msgstr "Musik"
 
 #: ../qml/gui/SettingsPage.qml:116
 msgid "Sound Effects"
-msgstr ""
+msgstr "Toneffekte"
 
 #: ../qml/gui/SettingsPage.qml:151
 msgid "Drop sensitivity"
-msgstr ""
+msgstr "Fall-Empfindlichkeit"
 
 #: fallingblocks.desktop.in.h:1
 msgid "Falling Blocks"
-msgstr ""
+msgstr "Tetris"
